@@ -6,7 +6,7 @@
   <li>🌱 I am developing my knowledge as a Data Analyst acquired at the master's degree in Data Mining </li>
 </ul>
 <br/>
-<h3>Projects</h3>
+<h3>:computer: Projects</h3>
 <p>Welcome to my portfolio, where I showcase my <a href="">projects</a></p>
 <h3>🛠️ Tools</h3>
 <ul>
