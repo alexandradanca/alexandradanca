@@ -7,7 +7,8 @@
 </ul>
 <br/>
 <h3>:computer: Projects</h3>
-<p>Welcome to my portfolio, where I showcase my <a href="https://github.com/alexandradanca/Portfolio">projects</a></p>
+<p>Welcome to my portfolio, where I showcase my <a href="https://github.com/alexandradanca/Portfolio">projects.</a></p>
+<p>View the live portfolio website through <a href="https://alexandradanca.github.io/PortfolioWebPage/index.html">this link.</a></p>
 <h3>🛠️ Tools</h3>
 <ul>
   <li>Language: SQL, HTML, CSS, JS, C, Java</li>
