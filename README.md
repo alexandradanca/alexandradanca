@@ -14,6 +14,7 @@
   <li>Language: SQL, HTML, CSS, JS, C, Java</li>
   <li>Database: PostgreSQL, MySQL</li>
   <li>Data Science: R</li>
+  <li>Data Visualization: Tableau, Power BI</li>
   <li>Frameworks: Bootstrap</li>
   <li>Tools: GitHub, SmartGit, CATCH+, Visual Studio Code, R-Studio</li>
 </ul>
