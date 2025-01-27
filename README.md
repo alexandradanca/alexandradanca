@@ -11,7 +11,7 @@
 <p>View the live portfolio website through <a href="https://alexandradanca.github.io/PortfolioWebPage/index.html">this link.</a></p>
 <h3>🛠️ Tools</h3>
 <ul>
-  <li>Language: SQL, HTML, CSS, JS, C, Java</li>
+  <li>Language: SQL, HTML, CSS, JS, C</li>
   <li>Database: PostgreSQL, MySQL</li>
   <li>Data Science: R, Python </li>
   <li>Data Visualization: Tableau, Power BI</li>
